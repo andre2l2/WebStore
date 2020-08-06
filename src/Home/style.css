@@ -1,0 +1,17 @@
+.header-container {
+    width: 100vw;
+    background-color: var(--color-header-backgroud);
+}
+
+.header-container header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-container header div:first-child {
+    color: var(--color-backgroud);
+    font-family: 'Salsa', cursive;
+    font-size: 2.1rem;
+}

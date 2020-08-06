@@ -1,0 +1,22 @@
+:root {
+    --color-backgroud: #FFFAFB;
+    --color-header-backgroud: #2B2C28;
+    --color-item: #339989;
+    --color-button: #06D6A0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: black;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+}
